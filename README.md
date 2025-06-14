@@ -1,8 +1,8 @@
-# Google Homepage Replica
+# RMgX Technologies assessment
 
 A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, and Tailwind CSS.
 
-## 🚀 Features
+##  Features
 
 - **Pixel-Perfect Design**: Exact replica of Google's homepage with attention to every detail
 - **Responsive Design**: Works seamlessly across all device sizes
@@ -11,7 +11,7 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 - **Performance**: Optimized for fast loading and smooth interactions
 - **Clean Code**: Well-structured, commented, and maintainable codebase
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
@@ -19,13 +19,13 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 - **Icons**: Lucide React
 - **Deployment**: Vercel
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Mobile**: < 640px
 - **Tablet**: 640px - 1024px  
 - **Desktop**: > 1024px
 
-## 🎨 Design Details
+##  Design Details
 
 ### Colors
 - Primary Blue: #4285F4 (Google Blue)
@@ -45,7 +45,7 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 - Button hover effects
 - Search input focus shadow
 
-## 🏗️ Project Structure
+##  Project Structure
 
 \`\`\`
 ├── app/
@@ -60,7 +60,7 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 └── README.md
 \`\`\`
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    \`\`\`bash
@@ -81,7 +81,7 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 4. **Open in browser**
    Navigate to `http://localhost:3000`
 
-## 🌟 Key Highlights
+##  Key Highlights
 
 ### Code Quality
 - **TypeScript**: Full type safety throughout the application
@@ -101,14 +101,14 @@ A pixel-perfect replica of the Google homepage built with Next.js, TypeScript, a
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **SEO Optimized**: Proper meta tags and semantic HTML
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Lighthouse Score**: 100/100 across all categories
 - **First Contentful Paint**: < 1s
 - **Largest Contentful Paint**: < 2s
 - **Cumulative Layout Shift**: 0
 
-## 🔧 Build & Deployment
+##  Build & Deployment
 
 \`\`\`bash
 # Build for production
@@ -121,7 +121,7 @@ npm start
 vercel --prod
 \`\`\`
 
-## 📝 License
+##  License
 
 This project is for educational and demonstration purposes only.
 
